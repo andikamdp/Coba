@@ -2,4 +2,5 @@ hello 22
 hallo
 ulala
 pembuka
+isi
 
